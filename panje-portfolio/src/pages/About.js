@@ -1,6 +1,7 @@
 import React from 'react';
 import './About.css';
 import aboutImg from '../assets/panje2.jpg';
+import resume from '../assets/Resume.pdf'
 
 function About() {
     return (
@@ -29,7 +30,7 @@ function About() {
                         Check out my resume below for more information on my work experience and skill set.  
                         </p>
                         <div className="about__button d__flex align__items__center">
-                            <a href="#"><button className="about btn pointer"> Download CV</button></a>
+                            <a href={resume} download><button className="about btn pointer" > Download Resume</button></a>
                             <a href="/contact"><button className="about btn pointer"> Hire Me</button></a>
                         </div>
                     </div>
