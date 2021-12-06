@@ -5,13 +5,13 @@
     "main.js.map": "/react-gh-pages/static/js/main.b09d48c8.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.e04c819e.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.e04c819e.js.map",
-    "static/js/2.33c8ab0e.chunk.js": "/react-gh-pages/static/js/2.33c8ab0e.chunk.js",
-    "static/js/2.33c8ab0e.chunk.js.map": "/react-gh-pages/static/js/2.33c8ab0e.chunk.js.map",
+    "static/js/2.ee918067.chunk.js": "/react-gh-pages/static/js/2.ee918067.chunk.js",
+    "static/js/2.ee918067.chunk.js.map": "/react-gh-pages/static/js/2.ee918067.chunk.js.map",
     "static/js/3.d97b08d2.chunk.js": "/react-gh-pages/static/js/3.d97b08d2.chunk.js",
     "static/js/3.d97b08d2.chunk.js.map": "/react-gh-pages/static/js/3.d97b08d2.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
     "static/css/main.c69f28a7.chunk.css.map": "/react-gh-pages/static/css/main.c69f28a7.chunk.css.map",
-    "static/js/2.33c8ab0e.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.33c8ab0e.chunk.js.LICENSE.txt",
+    "static/js/2.ee918067.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.ee918067.chunk.js.LICENSE.txt",
     "static/media/Resume.33a18bd8.pdf": "/react-gh-pages/static/media/Resume.33a18bd8.pdf",
     "static/media/Home.css": "/react-gh-pages/static/media/background.9255a529.jpg",
     "static/media/panje2.40941382.jpg": "/react-gh-pages/static/media/panje2.40941382.jpg",
@@ -22,7 +22,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e04c819e.js",
-    "static/js/2.33c8ab0e.chunk.js",
+    "static/js/2.ee918067.chunk.js",
     "static/css/main.c69f28a7.chunk.css",
     "static/js/main.b09d48c8.chunk.js"
   ]
